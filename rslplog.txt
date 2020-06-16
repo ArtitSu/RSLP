@@ -1,0 +1,1036 @@
+== RSLP start ==
+basic number = 1600 + 0 = 1600
+non basic number = 400 - 0 = 400
+=== phase II ===
+== iteration 0 ==
+min_c_d = -0.070552273
+min ratio = 0.062500000
+enter_index = 190
+leave_index = 1390
+== iteration 1 ==
+min_c_d = -0.105345544
+min ratio = 0.062500000
+enter_index = 189
+leave_index = 1389
+== iteration 2 ==
+min_c_d = -0.173148609
+min ratio = 0.062500000
+enter_index = 188
+leave_index = 1388
+== iteration 3 ==
+min_c_d = -0.205836714
+min ratio = 0.062500000
+enter_index = 187
+leave_index = 1387
+== iteration 4 ==
+min_c_d = -0.268294496
+min ratio = 0.062500000
+enter_index = 186
+leave_index = 1386
+== iteration 5 ==
+min_c_d = -0.297883978
+min ratio = 0.062500000
+enter_index = 185
+leave_index = 1385
+== iteration 6 ==
+min_c_d = -0.353536178
+min ratio = 0.062500000
+enter_index = 184
+leave_index = 1384
+== iteration 7 ==
+min_c_d = -0.379522674
+min ratio = 0.062500000
+enter_index = 183
+leave_index = 1383
+== iteration 8 ==
+min_c_d = -0.427744310
+min ratio = 0.062500000
+enter_index = 182
+leave_index = 1382
+== iteration 9 ==
+min_c_d = -0.449976726
+min ratio = 0.062500000
+enter_index = 181
+leave_index = 1381
+== iteration 10 ==
+min_c_d = -0.490733939
+min ratio = 0.062500000
+enter_index = 180
+leave_index = 1380
+== iteration 11 ==
+min_c_d = -0.509305322
+min ratio = 0.062500000
+enter_index = 179
+leave_index = 1379
+== iteration 12 ==
+min_c_d = -0.542961453
+min ratio = 0.062500000
+enter_index = 178
+leave_index = 1378
+== iteration 13 ==
+min_c_d = -0.558123364
+min ratio = 0.062500000
+enter_index = 177
+leave_index = 1377
+== iteration 14 ==
+min_c_d = -0.585288678
+min ratio = 0.062500000
+enter_index = 176
+leave_index = 1376
+== iteration 15 ==
+min_c_d = -0.597385709
+min ratio = 0.062500000
+enter_index = 175
+leave_index = 590
+== iteration 16 ==
+min_c_d = -0.526833436
+min ratio = 0.062500000
+enter_index = 1390
+leave_index = 589
+== iteration 17 ==
+min_c_d = -0.492040164
+min ratio = 0.062500000
+enter_index = 1389
+leave_index = 588
+== iteration 18 ==
+min_c_d = -0.424237099
+min ratio = 0.062500000
+enter_index = 1388
+leave_index = 587
+== iteration 19 ==
+min_c_d = -0.391548995
+min ratio = 0.062500000
+enter_index = 1387
+leave_index = 586
+== iteration 20 ==
+min_c_d = -0.329091213
+min ratio = 0.062500000
+enter_index = 1386
+leave_index = 585
+== iteration 21 ==
+min_c_d = -0.299501730
+min ratio = 0.062500000
+enter_index = 1385
+leave_index = 584
+== iteration 22 ==
+min_c_d = -0.243849531
+min ratio = 0.062500000
+enter_index = 1384
+leave_index = 583
+== iteration 23 ==
+min_c_d = -0.217863034
+min ratio = 0.062500000
+enter_index = 1383
+leave_index = 582
+== iteration 24 ==
+min_c_d = -0.169641399
+min ratio = 0.062500000
+enter_index = 1382
+leave_index = 581
+== iteration 25 ==
+min_c_d = -0.147408983
+min ratio = 0.062500000
+enter_index = 1381
+leave_index = 580
+== iteration 26 ==
+min_c_d = -0.106651769
+min ratio = 0.062500000
+enter_index = 1380
+leave_index = 579
+== iteration 27 ==
+min_c_d = -0.088080386
+min ratio = 0.062500000
+enter_index = 1379
+leave_index = 578
+== iteration 28 ==
+min_c_d = -0.069208290
+min ratio = 0.062500000
+enter_index = 192
+leave_index = 1392
+== iteration 29 ==
+min_c_d = -0.104458960
+min ratio = 0.937500000
+enter_index = 191
+leave_index = 592
+== iteration 30 ==
+min_c_d = -0.061849586
+min ratio = 0.062500000
+enter_index = 194
+leave_index = 1394
+== iteration 31 ==
+min_c_d = -0.095059169
+min ratio = 0.937500000
+enter_index = 193
+leave_index = 594
+== iteration 32 ==
+min_c_d = -0.054424255
+min ratio = 0.062500000
+enter_index = 1378
+leave_index = 577
+== iteration 33 ==
+min_c_d = -0.046068733
+min ratio = 0.062500000
+enter_index = 196
+leave_index = 1396
+== iteration 34 ==
+min_c_d = -0.073660202
+min ratio = 0.937500000
+enter_index = 195
+leave_index = 596
+== iteration 35 ==
+min_c_d = -0.039262345
+min ratio = 0.062500000
+enter_index = 1377
+leave_index = 576
+== iteration 36 ==
+min_c_d = -0.035250670
+min ratio = 0.062500000
+enter_index = 1392
+leave_index = 591
+== iteration 37 ==
+min_c_d = -0.033209583
+min ratio = 0.062500000
+enter_index = 1394
+leave_index = 593
+== iteration 38 ==
+min_c_d = -0.027591469
+min ratio = 0.062500000
+enter_index = 1396
+leave_index = 595
+== iteration 39 ==
+min_c_d = -0.021418392
+min ratio = 0.062500000
+enter_index = 174
+leave_index = 1374
+== iteration 40 ==
+min_c_d = -0.030839554
+min ratio = 0.062500000
+enter_index = 173
+leave_index = 1373
+== iteration 41 ==
+min_c_d = -0.047305849
+min ratio = 0.062500000
+enter_index = 172
+leave_index = 1372
+== iteration 42 ==
+min_c_d = -0.054449750
+min ratio = 0.062500000
+enter_index = 171
+leave_index = 1371
+== iteration 43 ==
+min_c_d = -0.066751738
+min ratio = 0.062500000
+enter_index = 170
+leave_index = 1370
+== iteration 44 ==
+min_c_d = -0.072002797
+min ratio = 0.062500000
+enter_index = 169
+leave_index = 1369
+== iteration 45 ==
+min_c_d = -0.080882829
+min ratio = 0.062500000
+enter_index = 168
+leave_index = 1368
+== iteration 46 ==
+min_c_d = -0.084596090
+min ratio = 0.062500000
+enter_index = 167
+leave_index = 1367
+== iteration 47 ==
+min_c_d = -0.090727731
+min ratio = 0.062500000
+enter_index = 166
+leave_index = 1366
+== iteration 48 ==
+min_c_d = -0.093220230
+min ratio = 0.062500000
+enter_index = 165
+leave_index = 1365
+== iteration 49 ==
+min_c_d = -0.097196199
+min ratio = 0.062500000
+enter_index = 164
+leave_index = 1364
+== iteration 50 ==
+min_c_d = -0.098743152
+min ratio = 0.062500000
+enter_index = 163
+leave_index = 1363
+== iteration 51 ==
+min_c_d = -0.101071432
+min ratio = 0.062500000
+enter_index = 162
+leave_index = 1362
+== iteration 52 ==
+min_c_d = -0.101905845
+min ratio = 0.062500000
+enter_index = 161
+leave_index = 1361
+== iteration 53 ==
+min_c_d = -0.103011468
+min ratio = 0.062500000
+enter_index = 160
+leave_index = 1360
+== iteration 54 ==
+min_c_d = -0.103326062
+min ratio = 0.062500000
+enter_index = 159
+leave_index = 574
+== iteration 55 ==
+min_c_d = -0.081907670
+min ratio = 0.062500000
+enter_index = 1374
+leave_index = 573
+== iteration 56 ==
+min_c_d = -0.072486507
+min ratio = 0.062500000
+enter_index = 1373
+leave_index = 572
+== iteration 57 ==
+min_c_d = -0.056020213
+min ratio = 0.062500000
+enter_index = 1372
+leave_index = 571
+== iteration 58 ==
+min_c_d = -0.048876312
+min ratio = 0.062500000
+enter_index = 1371
+leave_index = 570
+== iteration 59 ==
+min_c_d = -0.036574324
+min ratio = 0.062500000
+enter_index = 1370
+leave_index = 569
+== iteration 60 ==
+min_c_d = -0.031323265
+min ratio = 0.062500000
+enter_index = 1369
+leave_index = 568
+== iteration 61 ==
+min_c_d = -0.022443233
+min ratio = 0.062500000
+enter_index = 1368
+leave_index = 567
+== iteration 62 ==
+min_c_d = -0.018918063
+min ratio = 0.062500000
+enter_index = 198
+leave_index = 1398
+== iteration 63 ==
+min_c_d = -0.035978653
+min ratio = 0.937500000
+enter_index = 197
+leave_index = 598
+== iteration 64 ==
+min_c_d = -0.018729972
+min ratio = 0.062500000
+enter_index = 1367
+leave_index = 566
+== iteration 65 ==
+min_c_d = -0.017060590
+min ratio = 0.062500000
+enter_index = 1398
+leave_index = 597
+== iteration 66 ==
+min_c_d = -0.012598331
+min ratio = 0.062500000
+enter_index = 1366
+leave_index = 565
+== iteration 67 ==
+min_c_d = -0.012097031
+min ratio = 0.062500000
+enter_index = 1376
+leave_index = 575
+== iteration 68 ==
+min_c_d = -0.010105832
+min ratio = 0.062500000
+enter_index = 1365
+leave_index = 564
+== iteration 69 ==
+min_c_d = -0.006129863
+min ratio = 0.062500000
+enter_index = 1364
+leave_index = 563
+== iteration 70 ==
+min_c_d = -0.004582910
+min ratio = 0.062500000
+enter_index = 1363
+leave_index = 562
+== iteration 71 ==
+min_c_d = -0.002254630
+min ratio = 0.062500000
+enter_index = 1362
+leave_index = 561
+== iteration 72 ==
+min_c_d = -0.001420217
+min ratio = 0.062500000
+enter_index = 1361
+leave_index = 560
+== iteration 73 ==
+min_c_d = -0.000314594
+min ratio = 0.062500000
+enter_index = 1360
+leave_index = 559
+== iteration 74 ==
+min_c_d = -0.000230524
+min ratio = 0.062500000
+enter_index = 158
+leave_index = 1358
+== iteration 75 ==
+min_c_d = -0.000181106
+min ratio = 0.062500000
+enter_index = 157
+leave_index = 1357
+== iteration 76 ==
+min_c_d = -0.000016142
+min ratio = 0.062500000
+enter_index = 108
+leave_index = 1308
+== iteration 77 ==
+min_c_d = -0.000024267
+min ratio = 0.062500000
+enter_index = 107
+leave_index = 1307
+== iteration 78 ==
+min_c_d = -0.000040373
+min ratio = 0.062500000
+enter_index = 106
+leave_index = 1306
+== iteration 79 ==
+min_c_d = -0.000048252
+min ratio = 0.062500000
+enter_index = 105
+leave_index = 1305
+== iteration 80 ==
+min_c_d = -0.000063500
+min ratio = 0.062500000
+enter_index = 104
+leave_index = 1304
+== iteration 81 ==
+min_c_d = -0.000070807
+min ratio = 0.062500000
+enter_index = 103
+leave_index = 1303
+== iteration 82 ==
+min_c_d = -0.000084693
+min ratio = 0.062500000
+enter_index = 102
+leave_index = 1302
+== iteration 83 ==
+min_c_d = -0.000091239
+min ratio = 0.062500000
+enter_index = 101
+leave_index = 1301
+== iteration 84 ==
+min_c_d = -0.000103496
+min ratio = 0.062500000
+enter_index = 100
+leave_index = 1300
+== iteration 85 ==
+min_c_d = -0.000109195
+min ratio = 0.062500000
+enter_index = 99
+leave_index = 1299
+== iteration 86 ==
+min_c_d = -0.000119728
+min ratio = 0.062500000
+enter_index = 98
+leave_index = 1298
+== iteration 87 ==
+min_c_d = -0.000124566
+min ratio = 0.062500000
+enter_index = 97
+leave_index = 1297
+== iteration 88 ==
+min_c_d = -0.000133401
+min ratio = 0.062500000
+enter_index = 96
+leave_index = 1296
+== iteration 89 ==
+min_c_d = -0.000137412
+min ratio = 0.062500000
+enter_index = 95
+leave_index = 1295
+== iteration 90 ==
+min_c_d = -0.000144655
+min ratio = 0.062500000
+enter_index = 94
+leave_index = 1294
+== iteration 91 ==
+min_c_d = -0.000147905
+min ratio = 0.062500000
+enter_index = 93
+leave_index = 508
+== iteration 92 ==
+min_c_d = -0.000131763
+min ratio = 0.062500000
+enter_index = 1308
+leave_index = 507
+== iteration 93 ==
+min_c_d = -0.000123638
+min ratio = 0.062500000
+enter_index = 1307
+leave_index = 506
+== iteration 94 ==
+min_c_d = -0.000107532
+min ratio = 0.062500000
+enter_index = 1306
+leave_index = 505
+== iteration 95 ==
+min_c_d = -0.000099653
+min ratio = 0.062500000
+enter_index = 1305
+leave_index = 504
+== iteration 96 ==
+min_c_d = -0.000084405
+min ratio = 0.062500000
+enter_index = 1304
+leave_index = 503
+== iteration 97 ==
+min_c_d = -0.000077098
+min ratio = 0.062500000
+enter_index = 1303
+leave_index = 502
+== iteration 98 ==
+min_c_d = -0.000063212
+min ratio = 0.062500000
+enter_index = 1302
+leave_index = 501
+== iteration 99 ==
+min_c_d = -0.000056666
+min ratio = 0.062500000
+enter_index = 1301
+leave_index = 500
+== iteration 100 ==
+min_c_d = -0.000044409
+min ratio = 0.062500000
+enter_index = 1300
+leave_index = 499
+== iteration 101 ==
+min_c_d = -0.000038710
+min ratio = 0.062500000
+enter_index = 1299
+leave_index = 498
+== iteration 102 ==
+min_c_d = -0.000028177
+min ratio = 0.062500000
+enter_index = 1298
+leave_index = 497
+== iteration 103 ==
+min_c_d = -0.000023340
+min ratio = 0.062500000
+enter_index = 1297
+leave_index = 496
+== iteration 104 ==
+min_c_d = -0.000014950
+min ratio = 0.062500000
+enter_index = 110
+leave_index = 1310
+== iteration 105 ==
+min_c_d = -0.000022814
+min ratio = 0.937500000
+enter_index = 109
+leave_index = 510
+== iteration 106 ==
+min_c_d = -0.000014504
+min ratio = 0.062500000
+enter_index = 1296
+leave_index = 495
+== iteration 107 ==
+min_c_d = -0.000012011
+min ratio = 0.062500000
+enter_index = 112
+leave_index = 1312
+== iteration 108 ==
+min_c_d = -0.000018879
+min ratio = 0.937500000
+enter_index = 111
+leave_index = 512
+== iteration 109 ==
+min_c_d = -0.000010493
+min ratio = 0.062500000
+enter_index = 1295
+leave_index = 494
+== iteration 110 ==
+min_c_d = -0.000007865
+min ratio = 0.062500000
+enter_index = 1310
+leave_index = 509
+== iteration 111 ==
+min_c_d = -0.000006868
+min ratio = 0.062500000
+enter_index = 1312
+leave_index = 511
+== iteration 112 ==
+min_c_d = -0.000006690
+min ratio = 0.062500000
+enter_index = 114
+leave_index = 1314
+== iteration 113 ==
+min_c_d = -0.000011537
+min ratio = 0.937500000
+enter_index = 113
+leave_index = 514
+== iteration 114 ==
+min_c_d = -0.000005803
+min ratio = 0.062500000
+enter_index = 92
+leave_index = 1292
+== iteration 115 ==
+min_c_d = -0.000008377
+min ratio = 0.062500000
+enter_index = 91
+leave_index = 1291
+== iteration 116 ==
+min_c_d = -0.000012916
+min ratio = 0.062500000
+enter_index = 90
+leave_index = 1290
+== iteration 117 ==
+min_c_d = -0.000014904
+min ratio = 0.062500000
+enter_index = 89
+leave_index = 1289
+== iteration 118 ==
+min_c_d = -0.000018363
+min ratio = 0.062500000
+enter_index = 88
+leave_index = 1288
+== iteration 119 ==
+min_c_d = -0.000019857
+min ratio = 0.062500000
+enter_index = 87
+leave_index = 1287
+== iteration 120 ==
+min_c_d = -0.000022415
+min ratio = 0.062500000
+enter_index = 86
+leave_index = 1286
+== iteration 121 ==
+min_c_d = -0.000023500
+min ratio = 0.062500000
+enter_index = 85
+leave_index = 1285
+== iteration 122 ==
+min_c_d = -0.000025323
+min ratio = 0.062500000
+enter_index = 84
+leave_index = 1284
+== iteration 123 ==
+min_c_d = -0.000026079
+min ratio = 0.062500000
+enter_index = 83
+leave_index = 1283
+== iteration 124 ==
+min_c_d = -0.000027316
+min ratio = 0.062500000
+enter_index = 82
+leave_index = 1282
+== iteration 125 ==
+min_c_d = -0.000027813
+min ratio = 0.062500000
+enter_index = 81
+leave_index = 1281
+== iteration 126 ==
+min_c_d = -0.000028594
+min ratio = 0.062500000
+enter_index = 80
+leave_index = 1280
+== iteration 127 ==
+min_c_d = -0.000028891
+min ratio = 0.062500000
+enter_index = 79
+leave_index = 1279
+== iteration 128 ==
+min_c_d = -0.000029327
+min ratio = 0.062500000
+enter_index = 78
+leave_index = 1278
+== iteration 129 ==
+min_c_d = -0.000029476
+min ratio = 0.062500000
+enter_index = 77
+leave_index = 492
+== iteration 130 ==
+min_c_d = -0.000023673
+min ratio = 0.062500000
+enter_index = 1292
+leave_index = 491
+== iteration 131 ==
+min_c_d = -0.000021099
+min ratio = 0.062500000
+enter_index = 1291
+leave_index = 490
+== iteration 132 ==
+min_c_d = -0.000016560
+min ratio = 0.062500000
+enter_index = 1290
+leave_index = 489
+== iteration 133 ==
+min_c_d = -0.000014572
+min ratio = 0.062500000
+enter_index = 1289
+leave_index = 488
+== iteration 134 ==
+min_c_d = -0.000011112
+min ratio = 0.062500000
+enter_index = 1288
+leave_index = 487
+== iteration 135 ==
+min_c_d = -0.000009619
+min ratio = 0.062500000
+enter_index = 1287
+leave_index = 486
+== iteration 136 ==
+min_c_d = -0.000007061
+min ratio = 0.062500000
+enter_index = 1286
+leave_index = 485
+== iteration 137 ==
+min_c_d = -0.000005975
+min ratio = 0.062500000
+enter_index = 1285
+leave_index = 484
+== iteration 138 ==
+min_c_d = -0.000004847
+min ratio = 0.062500000
+enter_index = 1314
+leave_index = 513
+== iteration 139 ==
+min_c_d = -0.000004152
+min ratio = 0.062500000
+enter_index = 1284
+leave_index = 483
+== iteration 140 ==
+min_c_d = -0.000003396
+min ratio = 0.062500000
+enter_index = 1283
+leave_index = 482
+== iteration 141 ==
+min_c_d = -0.000003251
+min ratio = 0.062500000
+enter_index = 1294
+leave_index = 493
+== iteration 142 ==
+min_c_d = -0.000002159
+min ratio = 0.062500000
+enter_index = 1282
+leave_index = 481
+== iteration 143 ==
+min_c_d = -0.000001663
+min ratio = 0.062500000
+enter_index = 1281
+leave_index = 480
+== iteration 144 ==
+min_c_d = -0.000001451
+min ratio = 0.062500000
+enter_index = 115
+leave_index = 1716
+== iteration 145 ==
+min_c_d = -0.000000882
+min ratio = 0.062500000
+enter_index = 1280
+leave_index = 479
+== iteration 146 ==
+min_c_d = -0.000000584
+min ratio = 0.062500000
+enter_index = 1279
+leave_index = 478
+== iteration 147 ==
+min_c_d = -0.000000182
+min ratio = 0.062500000
+enter_index = 76
+leave_index = 1276
+== iteration 148 ==
+min_c_d = -0.000000224
+min ratio = 0.062500000
+enter_index = 75
+leave_index = 1275
+== iteration 149 ==
+min_c_d = -0.000000226
+min ratio = 0.062500000
+enter_index = 74
+leave_index = 1274
+== iteration 150 ==
+min_c_d = -0.000000194
+min ratio = 0.062500000
+enter_index = 73
+leave_index = 1273
+== iteration 151 ==
+min_c_d = -0.000000149
+min ratio = 0.062500000
+enter_index = 1278
+leave_index = 477
+== iteration 152 ==
+min_c_d = -0.000000077
+min ratio = 0.062500000
+enter_index = 72
+leave_index = 1272
+== iteration 153 ==
+min_c_d = -0.000000004
+min ratio = 0.062500000
+enter_index = 24
+leave_index = 1224
+== iteration 154 ==
+min_c_d = -0.000000006
+min ratio = 0.062500000
+enter_index = 23
+leave_index = 1223
+== iteration 155 ==
+min_c_d = -0.000000009
+min ratio = 0.062500000
+enter_index = 22
+leave_index = 1222
+== iteration 156 ==
+min_c_d = -0.000000011
+min ratio = 0.062500000
+enter_index = 21
+leave_index = 1221
+== iteration 157 ==
+min_c_d = -0.000000014
+min ratio = 0.062500000
+enter_index = 20
+leave_index = 1220
+== iteration 158 ==
+min_c_d = -0.000000016
+min ratio = 0.062500000
+enter_index = 19
+leave_index = 1219
+== iteration 159 ==
+min_c_d = -0.000000019
+min ratio = 0.062500000
+enter_index = 18
+leave_index = 1218
+== iteration 160 ==
+min_c_d = -0.000000021
+min ratio = 0.062500000
+enter_index = 17
+leave_index = 1217
+== iteration 161 ==
+min_c_d = -0.000000023
+min ratio = 0.062500000
+enter_index = 16
+leave_index = 1216
+== iteration 162 ==
+min_c_d = -0.000000025
+min ratio = 0.062500000
+enter_index = 15
+leave_index = 1215
+== iteration 163 ==
+min_c_d = -0.000000027
+min ratio = 0.062500000
+enter_index = 14
+leave_index = 1214
+== iteration 164 ==
+min_c_d = -0.000000028
+min ratio = 0.062500000
+enter_index = 13
+leave_index = 1213
+== iteration 165 ==
+min_c_d = -0.000000030
+min ratio = 0.062500000
+enter_index = 12
+leave_index = 1212
+== iteration 166 ==
+min_c_d = -0.000000031
+min ratio = 0.062500000
+enter_index = 11
+leave_index = 1211
+== iteration 167 ==
+min_c_d = -0.000000032
+min ratio = 0.062500000
+enter_index = 10
+leave_index = 1210
+== iteration 168 ==
+min_c_d = -0.000000033
+min ratio = 0.062500000
+enter_index = 9
+leave_index = 424
+== iteration 169 ==
+min_c_d = -0.000000029
+min ratio = 0.062500000
+enter_index = 1224
+leave_index = 423
+== iteration 170 ==
+min_c_d = -0.000000027
+min ratio = 0.062500000
+enter_index = 1223
+leave_index = 422
+== iteration 171 ==
+min_c_d = -0.000000024
+min ratio = 0.062500000
+enter_index = 1222
+leave_index = 421
+== iteration 172 ==
+min_c_d = -0.000000022
+min ratio = 0.062500000
+enter_index = 1221
+leave_index = 420
+== iteration 173 ==
+min_c_d = -0.000000018
+min ratio = 0.062500000
+enter_index = 1220
+leave_index = 419
+== iteration 174 ==
+min_c_d = -0.000000017
+min ratio = 0.062500000
+enter_index = 1219
+leave_index = 418
+== iteration 175 ==
+min_c_d = -0.000000014
+min ratio = 0.062500000
+enter_index = 1218
+leave_index = 417
+== iteration 176 ==
+min_c_d = -0.000000012
+min ratio = 0.062500000
+enter_index = 1217
+leave_index = 416
+== iteration 177 ==
+min_c_d = -0.000000010
+min ratio = 0.062500000
+enter_index = 1216
+leave_index = 415
+== iteration 178 ==
+min_c_d = -0.000000008
+min ratio = 0.062500000
+enter_index = 1215
+leave_index = 414
+== iteration 179 ==
+min_c_d = -0.000000006
+min ratio = 0.062500000
+enter_index = 1214
+leave_index = 413
+== iteration 180 ==
+min_c_d = -0.000000005
+min ratio = 0.062500000
+enter_index = 1213
+leave_index = 412
+== iteration 181 ==
+min_c_d = -0.000000004
+min ratio = 0.062500000
+enter_index = 26
+leave_index = 1226
+== iteration 182 ==
+min_c_d = -0.000000005
+min ratio = 0.937500000
+enter_index = 25
+leave_index = 426
+== iteration 183 ==
+min_c_d = -0.000000003
+min ratio = 0.062500000
+enter_index = 1212
+leave_index = 411
+== iteration 184 ==
+min_c_d = -0.000000003
+min ratio = 0.062500000
+enter_index = 28
+leave_index = 1228
+== iteration 185 ==
+min_c_d = -0.000000005
+min ratio = 0.937500000
+enter_index = 27
+leave_index = 428
+== iteration 186 ==
+min_c_d = -0.000000002
+min ratio = 0.062500000
+enter_index = 1211
+leave_index = 410
+== iteration 187 ==
+min_c_d = -0.000000002
+min ratio = 0.062500000
+enter_index = 30
+leave_index = 1230
+== iteration 188 ==
+min_c_d = -0.000000003
+min ratio = 0.937500000
+enter_index = 29
+leave_index = 430
+== iteration 189 ==
+min_c_d = -0.000000002
+min ratio = 0.062500000
+enter_index = 1226
+leave_index = 425
+== iteration 190 ==
+min_c_d = -0.000000002
+min ratio = 0.062500000
+enter_index = 1228
+leave_index = 427
+== iteration 191 ==
+min_c_d = -0.000000001
+min ratio = 0.062500000
+enter_index = 1230
+leave_index = 429
+== iteration 192 ==
+min_c_d = -0.000000001
+min ratio = 0.062500000
+enter_index = 8
+leave_index = 1208
+== iteration 193 ==
+min_c_d = -0.000000002
+min ratio = 0.062500000
+enter_index = 7
+leave_index = 1207
+== iteration 194 ==
+min_c_d = -0.000000003
+min ratio = 0.062500000
+enter_index = 6
+leave_index = 1206
+== iteration 195 ==
+min_c_d = -0.000000003
+min ratio = 0.062500000
+enter_index = 5
+leave_index = 1205
+== iteration 196 ==
+min_c_d = -0.000000004
+min ratio = 0.062500000
+enter_index = 4
+leave_index = 1204
+== iteration 197 ==
+min_c_d = -0.000000004
+min ratio = 0.062500000
+enter_index = 3
+leave_index = 1203
+== iteration 198 ==
+min_c_d = -0.000000005
+min ratio = 0.062500000
+enter_index = 2
+leave_index = 1202
+== iteration 199 ==
+min_c_d = -0.000000005
+min ratio = 0.062500000
+enter_index = 1
+leave_index = 1201
+== iteration 200 ==
+min_c_d = -0.000000005
+min ratio = 0.062500000
+enter_index = 0
+leave_index = 1200
+== iteration 201 ==
+min_c_d = -0.000000001
+min ratio = 0.062500000
+enter_index = 1210
+leave_index = 409
+== iteration 202 ==
+min_c_d = -0.000000001
+min ratio = 0.062500000
+enter_index = 31
+leave_index = 1632
+== iteration 203 ==
+min_c_d = -0.000000001
+min ratio = 0.062500000
+enter_index = 32
+leave_index = 1633
+== iteration 204 ==
+min_c_d = -0.000000001
+min ratio = 0.062500000
+enter_index = 33
+leave_index = 1634
+== iteration 205 ==
+min_c_d = -0.000000000
+=== optimal solution ===
+Runtime = 77.821814 
+minimum value = -1.010125287
+iteration = 205
+== RSLP finished ==

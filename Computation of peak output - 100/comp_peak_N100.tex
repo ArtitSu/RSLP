@@ -1,0 +1,207 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{amsmath} % for math mode
+\usepackage{amssymb} % for math symbol
+\usepackage{graphicx} % for including graphics
+\usepackage{indentfirst} % for indenting the first paragraph of a section
+
+
+
+
+
+% for theorem mode
+\usepackage{amsthm}
+\newtheorem{thm}{Theorem}
+\newtheorem{prop}{Proposition}
+\newtheorem{asmp}{Assumption}
+\newtheorem{lem}{Lemma}
+\newtheorem{rmk}{Remark}
+\theoremstyle{definition}
+\newtheorem{dfn}{Definition}
+
+
+%% paper layout
+\pagestyle{headings}% page numbering style
+%\setlength{\parskip}{5mm} % gab between two paragraphs
+\linespread{1.3} % gap between tow lines
+% adjust horizontal layout
+\setlength{\hoffset}{-20pt}
+\setlength{\textwidth}{440pt}  
+% adjust vertical layout
+\setlength{\voffset}{-40pt}
+\setlength{\textheight}{700pt}
+
+
+
+
+
+%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+%--------------------------------------------------------------------- begin document ----------------------------------------------------
+%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+\begin{document}
+\begin{center}
+{\huge \bf Computation of Peak Output for Persistent Inputs} 
+\end{center}
+\section{Computation of peak output}
+Consider a linear time-invariant and non-anticipative system whose input  $f:\mathbb{R}\rightarrow\mathbb{R}$ 
+    and output $y:\in\mathbb{R}\rightarrow\mathbb{R}$ are related by
+\begin{equation}\label{eq:sys}
+    y(t,f) = \int_{-\infty}^\infty h(t-\tau)f(\tau)d\tau
+\end{equation}
+where $h:\mathbb{R}\rightarrow\mathbb{R}$ is the impulse response of the system.
+Suppose that $h$ takes the form
+\[
+    h(t) = \beta\delta(t) + \bar{h}(t)
+\]
+where $\beta\in\mathbb{R}$, $\delta$ denotes the Dirac delta function and 
+    $\bar{h} :\mathbb{R}\rightarrow\mathbb{R}$ 
+    is a bounded and piecewise continuous function.
+    
+
+Suppose that $f$ belong to the set $\mathcal{F}$ characterized by
+\begin{equation}\label{eq:F}
+    \mathcal{F}\triangleq \{f\in\mathbb{L}_\infty: \|f\|_\infty\le M\;\; \text{and}\;\; \|\dot{f}\|\le D\}
+\end{equation}
+    where $M$ and $D$ are positive numbers.
+With the input set $\mathcal{F}$, define the peak output of $y$ by
+\begin{equation}\label{peaky1}
+    \hat{y}\triangleq \sup_{f\in\mathcal{F}}\|y(f)\|_\infty.
+\end{equation}
+The peak output $\hat{y}$ can be determined by considering just one particular time $t$. 
+Consequently, it is convenient to consider the case in which the peak output occurs at $t=0$.
+Hence, the problem \eqref{peaky1} becomes
+\begin{equation}\label{peaky2}
+    \hat{y} = \sup_{f\in\mathcal{F}} J(f) 
+\end{equation}
+where $J(f)$ is the cost function given by
+\begin{equation}\label{eq:int}
+    J(f)\triangleq \beta f(0) + \int_{-\infty}^\infty \bar{h}(-\tau)f(\tau)d\tau.
+\end{equation}
+
+
+
+Now the $\infty$-norms of $f$ and $\dot{f}$ are considered for $t\in[-T,T]$ instead of $t\in(-\infty,\infty)$.
+To this end, the trajectories of $\bar{h}(t)$ and $f(t)$ for $t\in[-T,T]$ are represented by vectors 
+    $\mathbf{h}$ and $\mathbf{f}$ such that
+\[
+   \mathbf{h} \triangleq [h_{-n},h_{-n+1},\ldots,h_{n-1},h_n]^T\in\mathbb{R}^{2n+1}\quad \text{and}\quad 
+  \mathbf{f}_0 \triangleq [f_{-n},f_{-n+1},\ldots,f_{n-1},f_n]^T \in\mathbb{R}^{2n+1}
+\]
+where $h_i = h(t_i)$ and $f_i = f(t_i)$.
+The time point $t_i$ is given by
+\[
+    t_{-n} = -T,\quad t(i+1) = t_i+\sigma,\;\; i = -n,\-n+1,\ldots,n-1.
+\]
+Following Lane (1992), $\mathbf{f}_0$ is replaced by
+ \[
+       \mathbf{f} \triangleq [f_{-n+1},f_{-n+2},\ldots,f_{n-1},f_n]^T \in\mathbb{R}^{2n}.
+ \]
+ By employing the Simpson’s rule, the cost function $J(f)$ can be approximated by
+\begin{equation}\label{eq:cost_new}
+    J(f) \approx \mathbf{c}^T\mathbf{f}
+\end{equation}
+    where $\mathbf{c}$ is given by
+\begin{equation}\label{eq:c}
+    \mathbf{c}\triangleq \frac{\sigma}{3}[4h_{n-1},2h_{n-2},4h_{n-3},\ldots,2h_2,4h_1,\frac{3\beta}{\sigma}+h_0,
+                                      \mathbf{0}_{1\times n}]^T\in\mathbb{R}^{2n}.
+\end{equation}
+
+
+Consider the constraints on the input $f$ in \eqref{eq:F}.
+The constraint $\|f\|_\infty\le M$ is replaced by
+\begin{equation}\label{eq:constrM}
+    I_{2n\times 2n}\mathbf{f} \preceq M\mathbf{1}_{2n\times 1},\quad\text{and}\quad  
+    -I_{2n\times 2n}\mathbf{f} \preceq M\mathbf{1}_{2n\times 1}.    
+\end{equation}
+By using the first-order backward formula, the constraint $\|\dot{f}\|_\infty\le D$ is replaced by
+\begin{equation}\label{eq:constrD}
+    Q_d\mathbf{f} \preceq D\mathbf{1}_{2n\times 1},\quad\text{and}\quad 
+    -Q_d\mathbf{f} \preceq D\mathbf{1}_{2n\times 1}
+\end{equation}
+where 
+\[
+Q_d =
+\begin{bmatrix}
+ 1 & 0 & 0 & \ldots & 0 & 0 & 0 \\
+-1 & 1 & 0 & \ldots & 0 & 0 & 0  \\
+0 & -1 & 1 & \ldots & 0 & 0 & 0  \\
+\vdots & \vdots & \vdots &\ddots & \vdots & \vdots & \vdots  \\
+ 0 & 0 & 0 & \ldots & -1 & 1 & 0  \\
+ 0 & 0 & 0 & \ldots & 0 & -1 & 1  
+\end{bmatrix}\in\mathbb{R}^{2n\times 2n}.
+\]
+
+
+By using \eqref{eq:cost_new}--\eqref{eq:constrD},
+    the approximated peak output is the solution of the following optimisation problem:
+\begin{equation}\label{eq:LP}
+    \begin{array}{cc}
+    \displaystyle{\max_{\mathbf{f}\in\mathbb{R}^{2n}}} & \mathbf{c}^T\mathbf{f}\\
+    \text{subject to} & A\mathbf{f} \preceq \mathbf{b}
+    \end{array}
+\end{equation}    
+where 
+\[
+    A = \begin{bmatrix} I_{2n\times 2n}\\ -I_{2n\times 2n}\\ Q_d\\ -Q_d\end{bmatrix},\quad 
+    \mathbf{b} =  \begin{bmatrix} M\mathbf{1}_{2n\times 1}\\ M\mathbf{1}_{2n\times 1}\\
+                                                   D\mathbf{1}_{2n\times 1}\\ D\mathbf{1}_{2n\times 1}\end{bmatrix}
+\]
+    and $\mathbf{c}$ is given in \eqref{eq:c}.
+    
+    
+\newpage
+% ------------------------------------------------------------------------------------------------------------
+\section{Numerical example}
+Consider the system described by
+\[
+    H(s) = \frac{\omega_n^2}{s^2 + 2\zeta\omega_n s + \omega_n^2}
+\]
+where 
+\[
+    \omega_n = 10 \ \mathrm{rad/sec} \quad \text{and}\quad \zeta = 0.8.
+\]
+Suppose that the system input belongs to the set $\mathcal{F}$ in \eqref{eq:F} with
+\[
+    M = 1\quad \text{and}\quad D = 5.
+\]
+The number of sampling intervals $N$ and the truncation time $T$ are selected to be
+\[
+    N = 100\quad \text{and}\quad T = 2.5.
+\]
+
+
+By using Sedumi package in Matlab, we obtain the peak output of the system as shown in the table.
+
+
+
+%------------------------------------------------------------ตาราง
+\begin{table}[h]
+\begin{center}
+\vspace{1cm}
+\begin{tabular}{|c|c|c|c|}
+\hline
+ exact value  & peak output & error (\%)& CPU Time (s)\\ 
+\hline
+$1.180$ & $1.008$ & $14.58\%$ & $0.0267$\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\noindent
+Computer spec.: CPU Intel(R) Core(TM) i7 2.30 GHz RAM 8 GB
+%----------------------------------------------------------กราฟ
+\begin{figure}[h]
+\begin{center}
+\includegraphics[scale=0.8]{max_inp.eps}
+\end{center}
+\caption{Maximal input}
+\end{figure}
+\end{document}
+%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+%----------------------------------------------------------------------- end document ----------------------------------------------------
+%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
